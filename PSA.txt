@@ -1,0 +1,4 @@
+D,Florida Frenzy,4188
+D,Literary Fort Worth,3198
+P,Common Wealth,6704
+P,Literary Nashville,6181

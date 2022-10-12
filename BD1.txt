@@ -1,0 +1,58 @@
+Literary Fort Worth,3198,4
+1,D,18-11-2021
+2,P,28-08-2021
+3,D,28-08-2021
+4,P,28-08-2021
+Numero de ejemplares disponibles: 2
+Florida FrenzyWorth,4188,3
+1,D,28-08-2021
+2,D,28-08-2021
+3,D,18-11-2021
+Numero de ejemplares disponibles: 3
+Impossible Princess,6139,4
+1,P,28-08-2021
+2,P,28-08-2021
+3,D,28-08-2021
+4,P,28-08-2021
+Numero de ejemplares disponibles: 1
+Literary Austincess,5745,7
+1,D,28-08-2021
+2,P,28-08-2021
+3,D,28-08-2021
+4,P,28-08-2021
+5,D,28-08-2021
+6,D,28-08-2021
+7,P,28-08-2021
+Numero de ejemplares disponibles: 4
+Common Wealthincess,6704,4
+1,P,18-11-2021
+2,P,28-08-2021
+3,P,28-08-2021
+4,P,28-08-2021
+Numero de ejemplares disponibles: 0
+American Satirecess,2023,2
+1,D,28-08-2021
+2,P,28-08-2021
+Numero de ejemplares disponibles: 1
+El Coron Satirecess,5629,3
+1,D,28-08-2021
+2,D,28-08-2021
+3,D,28-08-2021
+Numero de ejemplares disponibles: 3
+30 Satiresatirecess,1646,6
+1,P,28-08-2021
+2,P,28-08-2021
+3,D,28-08-2021
+4,D,28-08-2021
+5,P,28-08-2021
+6,D,28-08-2021
+Numero de ejemplares disponibles: 3
+American Readercess,3860,3
+1,D,28-08-2021
+2,P,28-08-2021
+3,D,28-08-2021
+Numero de ejemplares disponibles: 2
+Literary Nashvilles,6181,2
+1,P,28-08-2021
+2,D,28-08-2021
+Numero de ejemplares disponibles: 1
